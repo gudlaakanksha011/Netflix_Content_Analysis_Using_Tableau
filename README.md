@@ -38,6 +38,5 @@ The dashboard provides an **interactive way** to explore Netflix's library and g
 
 ---
   
-
-```markdown
-![Netflix Dashboard](images/netflix_dashboard.png)
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/app/profile/akanksha.gudla/viz/NetflixContentAnalysis_17583089720720/Dashboard1?publish=yes)
